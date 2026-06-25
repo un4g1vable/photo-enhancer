@@ -34,7 +34,7 @@
 
 Перетащите фотографию — модель подберёт коррекцию, а результат можно сравнить с оригиналом ползунком «до/после» и скачать.
 
-<img width="2234" height="1674" alt="image" src="https://github.com/user-attachments/assets/dee6b1ff-4b41-4a3b-bd1c-ab40b2637bef" />
+<img width="2020" height="1678" alt="image" src="https://github.com/user-attachments/assets/c647601c-0a0b-42f3-9336-ef53699e6256" />
 
 
 ## Возможности
