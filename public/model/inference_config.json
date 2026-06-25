@@ -1,0 +1,23 @@
+{
+  "img_size": 224,
+  "ranges": {
+    "brightness": [
+      0.7,
+      1.3
+    ],
+    "contrast": [
+      0.7,
+      1.3
+    ],
+    "saturation": [
+      0.6,
+      1.4
+    ]
+  },
+  "target": "log_restore_coefficients",
+  "apply_order": [
+    "brightness (x f)",
+    "contrast (вокруг средней яркости)",
+    "saturation (смешивание с серым)"
+  ]
+}
